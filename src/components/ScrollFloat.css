@@ -1,0 +1,19 @@
+/** @format */
+
+.scroll-float {
+	overflow: hidden;
+}
+
+.scroll-float-text {
+	display: inline-block;
+	font-family: 'Poppins', sans-serif;
+	font-size: clamp(1.6rem, 8vw, 10rem);
+	font-weight: 900;
+	text-align: center;
+	color: #dca63d;
+	line-height: 1.5;
+}
+
+.char {
+	display: inline-block;
+}
